@@ -2,39 +2,29 @@
 title: "Tarun Manoharan"
 image: "Mountain.JPG"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/tarunmano"
   - label: GitHub
     url: "https://github.com/TarunMano"
-  - label: Email
-    url: "mailto:tarun.mano@utexas.edu"
 output:
   postcards::trestles
 ---
  
-## Bio
+## About Me
 
 Hello! My name is Tarun I am a junior at the University of Texas at Austin, with a 
 double major in Data Science and Mathematics. I plan to be a data scientist, 
-and the use of math to solve problems is something I have always been intrigued by, 
-hence the career path. In my spare time, I love spending time outdoors, 
-cooking and trying new foods, and listening to music. 
+and the use of math to solve problems is something I have always been intrigued by.
+In my spare time, I love spending time outdoors, cooking and trying new foods, 
+and listening to music. 
 
 <br><br><br><br>
 
-### My Bucket List Vacation Spots
+### My Bucket List Vacation Spots:
 
-Bangkok, Thailand
-
-Andalusia, Spain 
-
-Kyoto, Japan 
-
-Marrakesh, Morocco
-
-Banff, Canada
+* Bangkok, Thailand
+* Andalusia, Spain
+* Kyoto, Japan
+* Marrakesh, Morocco
+* Banff, Canada
 
 <br><br><br><br>
-
-
-Website Built at: `r Sys.time()`
+Website Built on: `r format(Sys.time(), usetz = TRUE)`
